@@ -3,15 +3,15 @@ created by :- Prathamesh P Pai (20BCS103)
 simple Blood bank management system program
 
 
-Admin account username :- admin
-              password :- admin
+Admin account username:- admin
+              password:- admin
 
 
-user functions :-
+user functions:-
 
 1)make a blood donation request
 
-2)view recieved requests
+2)view received requests
 
 3)register for donation
 
@@ -28,9 +28,4 @@ Admin functions:-
 
 4)Send requests to users 
 
-assumptions :-
-
-It is assumed that the user enters everything in lowercase letters execpt for blood groups whichfollow the format  AB+ , O+, A- (capital letters followed by sign without any space)
-
-for simplicity it is assumed taht there is only one admin user , hence only one admin account exits whose username and password is hard coded
 
